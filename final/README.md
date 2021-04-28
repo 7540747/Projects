@@ -1,0 +1,3 @@
+# Projects
+Raycasting Solution:
+This project is programming the game of war. The rules are as follows. A player will flip the card from the top of their deck onto a discard pile. Then the two cards will be compared to check for the highest value. The highest value wins all the opponents cards in the discard pile. The game will continue until all cards are in single players hand. In the event of a tie, each player will place 3 additional cards onto the discard pile then flipping the third to again check for the highest value. This will continue as well until the cards have all been played in a players hand, or a winner of the war was decided.
